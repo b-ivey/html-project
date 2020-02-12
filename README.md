@@ -64,7 +64,7 @@ You will need to submit at least two files -- `resume.html` and your image file(
 
 Commit your files to the `username.github.io` repository you created during the GitHub Setup exercise. (You *do not* need to create a new repository for every project. You will always submit to the repository you added your first ever web page to.)
 
-Create an [issue in this repository](https://github.com/umiami-web-design/project-html/issues) with your full name and a link to your web page (http://username.github.io/resume.html) by the deadline.
+Create an [issue in this repository](https://github.com/b-ivey/html-project) with your full name and a link to your web page (http://username.github.io/resume.html) by the deadline.
 
 If you are unsure of what is required in the issue, [check the example](https://github.com/umiami-web-design/html-project/issues/1) provided.
 
