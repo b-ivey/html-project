@@ -66,7 +66,7 @@ Commit your files to the `username.github.io` repository you created during the 
 
 Create an [issue in this repository](https://github.com/b-ivey/html-project) with your full name and a link to your web page (http://username.github.io/resume.html) by the deadline.
 
-If you are unsure of what is required in the issue, [check the example](https://github.com/umiami-web-design/html-project/issues/1) provided.
+If you are unsure of what is required in the issue, [check the example](https://github.com/b-ivey/html-project/issues/1) provided.
 
 Do not wait until the last minute to submit your URL.
 
