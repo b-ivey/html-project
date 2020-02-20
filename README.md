@@ -60,11 +60,11 @@ When you include an image or photo, you must:
 
 ### Submission
 
-You will need to submit at least two files -- `resume.html` and your image file(s). Be sure to name the HTML document `resume.html`. Other names will result in a deduction.
+You will need to submit at least two files -- `resume.md` and your image file(s). Be sure to name the HTML document `resume.md`. Other names will result in a deduction.
 
-Commit your files to the `username.github.io` repository you created during the GitHub Setup exercise. (You *do not* need to create a new repository for every project. You will always submit to the repository you added your first ever web page to.)
+Commit your files to a repository you created during the GitHub Setup exercise. (You *do not* need to create a new repository for every project, but I highly recommend it for organizational purposes. 
 
-Create an [issue in this repository](https://github.com/b-ivey/html-project/issues) with your full name and a link to your web page (http://username.github.io/resume.html) by the deadline.
+Create an [issue in this repository](example: https://github.com/b-ivey/html-project/issues) with your full name and a link to your web page (http://username.github.io/resume.html) by the deadline.
 
 If you are unsure of what is required in the issue, [check the example](https://github.com/b-ivey/html-project/issues/1) provided.
 
@@ -81,7 +81,7 @@ To assure you do not make mistakes going forward, you will receive feedback. One
 
 **You are required to submit this assignment properly and on time.** A missed deadline (submitting the assignment at 12:00:01 p.m.) will result in a three (3) point deduction for every 24-hour period the assignment is late up to three days past deadline.
 
-Failure to submit the assignment to GitHub as detailed above (to your `username.github.io` repo, as `resume.html`) will result in a two (2) point deduction.
+Failure to submit the assignment to GitHub as detailed above (to your `username.github.io` repo, as `resume.md`) will result in a two (2) point deduction.
 
 (I use a computer script to clone and do an initial check of every student's work. If the script breaks, it means I have to do extra work to find and/or grade your assignment. Therefore, it will cost you in points.)
 
@@ -111,11 +111,11 @@ What is *not* okay is using a hand-coded bullet or other decorative character li
 
 In the above cases, use semantic tags to better describe the content. We'll worry about how it looks when using CSS.
 
-**Can I name my file `Resume.html` or `RESUME.html`?**
+**Can I name my file `Resume.md` or `RESUME.md`?**
 
 No. This will earn you a deduction for an incorrect submission.
 
-Remember, web servers are case-sensitive --  `resume.html` and `Resume.html` are viewed as different files.
+Remember, web servers are case-sensitive --  `resume.md` and `Resume.md` are viewed as different files.
 
 Also, it is considered a best practice to keep file names lowercase.
 
